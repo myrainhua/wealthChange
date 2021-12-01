@@ -1,4 +1,4 @@
-A simulation to see what's the result among normal people、rich-second generation、hard-working people 
+A simulation to see what's the result of competion among normal people、rich-second generation and hard-working people. 
 
 ### 假设：
 一个社会集体中有部分富二代，部分努力的人，多数是普通人。这些人在每一轮的人生竞争中随机的把自己的一份钱给另一个人（被给予的人相当于随机获得了一份钱），经过多轮竞争后谁的钱会更多？
