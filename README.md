@@ -9,5 +9,5 @@ A simulation to see what's the result of competion among normal people、rich-se
 
 ### 初始条件：
 * 努力的人和普通人有一样的初始资本
-* 努力的人在每一轮的竞争中有略微更高的概率获得别人给出的一份钱（通过自己的努力）
+* 努力的人在每一轮的竞争中有略微更高的概率获得别人给出的一份钱（模拟通过自己努力的结果）
 * 富二代比普通人和努力的人有更高的初始资本
